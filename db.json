@@ -19,616 +19,444 @@
   ],
   "subs": [
     {
-      "message_id": 15427,
+      "message_id": 15640,
       "from": {
-        "id": 965353073,
-        "is_bot": false,
-        "first_name": "捌玖拾",
-        "username": "jiushiya",
-        "language_code": "zh-hans"
-      },
-      "chat": {
-        "id": 965353073,
-        "first_name": "捌玖拾",
-        "username": "jiushiya",
-        "type": "private"
-      },
-      "date": 1583759180,
-      "text": "“这世间美好的东西不多。” \n“初夏时节悦耳的蝉鸣。” \n“十八岁笑起来要人命的你。”",
-      "fwdMsgId": 2749,
-      "sub_type": "submission_type:anonymous",
-      "actionMsgId": 2750,
-      "receive": {
         "id": 416027694,
         "is_bot": false,
         "first_name": "绫子",
         "username": "lingzi99",
         "language_code": "zh-hans"
       },
-      "receive_date": 1583836642,
-      "receive_params": {}
-    },
-    {
-      "message_id": 15429,
-      "from": {
-        "id": 965353073,
-        "is_bot": false,
-        "first_name": "捌玖拾",
-        "username": "jiushiya",
-        "language_code": "zh-hans"
-      },
       "chat": {
-        "id": 965353073,
-        "first_name": "捌玖拾",
-        "username": "jiushiya",
-        "type": "private"
-      },
-      "date": 1583810823,
-      "text": "你不曾见过我清冷外表下如山峦起伏般的心脏。                                                      我也不曾目睹你欢脱皮囊里为我流淌着的清泉。所以，我们就此错过。",
-      "fwdMsgId": 2751,
-      "sub_type": "submission_type:real",
-      "actionMsgId": 2752
-    },
-    {
-      "message_id": 15433,
-      "from": {
-        "id": 110913124,
-        "is_bot": false,
-        "first_name": "𝑯𝒖𝒌𝒆𝒓",
-        "username": "Vincent_Hu",
-        "language_code": "zh-hans"
-      },
-      "chat": {
-        "id": 110913124,
-        "first_name": "𝑯𝒖𝒌𝒆𝒓",
-        "username": "Vincent_Hu",
-        "type": "private"
-      },
-      "date": 1583820635,
-      "text": "唯以尔兮，春风荷棠百花红\n\n[译：只因为是你啊，所以那春风里的荷花与海棠以及百样鲜花才会绽放红艳]",
-      "fwdMsgId": 2753,
-      "sub_type": "submission_type:real",
-      "actionMsgId": 2754
-    },
-    {
-      "message_id": 15436,
-      "from": {
-        "id": 503945313,
-        "is_bot": false,
-        "first_name": "沧海",
-        "username": "nickniu",
-        "language_code": "zh-hans"
-      },
-      "chat": {
-        "id": 503945313,
-        "first_name": "沧海",
-        "username": "nickniu",
-        "type": "private"
-      },
-      "date": 1583842868,
-      "text": "我拿出来给你的\n已经是我有的最好的了\n怎么才能让你看到我呢\n只要你要\n只要我有",
-      "fwdMsgId": 2755,
-      "sub_type": "submission_type:anonymous",
-      "actionMsgId": 2756,
-      "receive": {
-        "id": 794296082,
-        "is_bot": false,
-        "first_name": "小羊",
-        "username": "nmsl666666",
-        "language_code": "zh-hans"
-      },
-      "receive_date": 1583842883,
-      "receive_params": {}
-    },
-    {
-      "message_id": 15439,
-      "from": {
-        "id": 503945313,
-        "is_bot": false,
-        "first_name": "沧海",
-        "username": "nickniu",
-        "language_code": "zh-hans"
-      },
-      "chat": {
-        "id": 503945313,
-        "first_name": "沧海",
-        "username": "nickniu",
-        "type": "private"
-      },
-      "date": 1583908304,
-      "text": "吹过你吹过的风 就当是相拥\n喝过你喝过的水 就当是亲吻\n牵过你牵过的手 就当是牵手\n第一场大雪落下白了头发\n就当是已经与你白头偕老",
-      "fwdMsgId": 2757,
-      "sub_type": "submission_type:anonymous",
-      "actionMsgId": 2758,
-      "receive": {
-        "id": 794296082,
-        "is_bot": false,
-        "first_name": "小羊",
-        "username": "nmsl666666",
-        "language_code": "zh-hans"
-      },
-      "receive_date": 1583908320,
-      "receive_params": {}
-    },
-    {
-      "message_id": 15442,
-      "from": {
-        "id": 965353073,
-        "is_bot": false,
-        "first_name": "捌玖拾",
-        "username": "jiushiya",
-        "language_code": "zh-hans"
-      },
-      "chat": {
-        "id": 965353073,
-        "first_name": "捌玖拾",
-        "username": "jiushiya",
-        "type": "private"
-      },
-      "date": 1583931186,
-      "text": "喜欢你众人皆知\n纠结是半夜自己哭着醒来\n在心里想着我还要不要继续喜欢你",
-      "fwdMsgId": 2759,
-      "sub_type": "submission_type:real",
-      "actionMsgId": 2760,
-      "receive": {
-        "id": 794296082,
-        "is_bot": false,
-        "first_name": "小羊",
-        "username": "nmsl666666",
-        "language_code": "zh-hans"
-      },
-      "receive_date": 1583931200,
-      "receive_params": {}
-    },
-    {
-      "message_id": 15445,
-      "from": {
-        "id": 965353073,
-        "is_bot": false,
-        "first_name": "捌玖拾",
-        "username": "jiushiya",
-        "language_code": "zh-hans"
-      },
-      "chat": {
-        "id": 965353073,
-        "first_name": "捌玖拾",
-        "username": "jiushiya",
-        "type": "private"
-      },
-      "date": 1583932210,
-      "text": "你就好像是二月干净的云朵\n三月返青的新鲜的草的嫩芽\n四月浓郁的花香\n五月夜空中明亮的小星星\n六月活泼福满活力的太阳\n拥有你后我就没有再想过其他任何人可以像你一样\n陪我一起走过一生的时光",
-      "fwdMsgId": 2761,
-      "sub_type": "submission_type:real",
-      "actionMsgId": 2762,
-      "receive": {
         "id": 416027694,
-        "is_bot": false,
         "first_name": "绫子",
         "username": "lingzi99",
-        "language_code": "zh-hans"
+        "type": "private"
       },
-      "receive_date": 1584444905,
-      "receive_params": {}
+      "date": 1587709262,
+      "text": "。。"
     },
     {
-      "message_id": 15447,
+      "message_id": 15642,
       "from": {
-        "id": 742273611,
+        "id": 724628958,
         "is_bot": false,
-        "first_name": "初九",
-        "username": "chujiu_9688",
+        "first_name": "59",
+        "last_name": ".",
         "language_code": "zh-hans"
       },
       "chat": {
-        "id": 742273611,
-        "first_name": "初九",
-        "username": "chujiu_9688",
+        "id": 724628958,
+        "first_name": "59",
+        "last_name": ".",
         "type": "private"
       },
-      "date": 1583965953,
-      "photo": [
-        {
-          "file_id": "AgACAgUAAxkBAAI8V15pZwAB2qJWePXGwW5zPa8OqZNRNwACo6oxG3ClSFfusZjabgK8-DkhGzMABAEAAwIAA20AAw8MBQABGAQ",
-          "file_unique_id": "AQADOSEbMwAEDwwFAAE",
-          "file_size": 30373,
-          "width": 293,
-          "height": 320
-        },
-        {
-          "file_id": "AgACAgUAAxkBAAI8V15pZwAB2qJWePXGwW5zPa8OqZNRNwACo6oxG3ClSFfusZjabgK8-DkhGzMABAEAAwIAA3gAAxAMBQABGAQ",
-          "file_unique_id": "AQADOSEbMwAEEAwFAAE",
-          "file_size": 138052,
-          "width": 690,
-          "height": 753
-        }
-      ],
-      "caption": "世间两物绝美而不可得\n一为檐上月🌙\n二为眸中你❤️"
-    },
-    {
-      "message_id": 15449,
-      "from": {
-        "id": 742273611,
-        "is_bot": false,
-        "first_name": "初九",
-        "username": "chujiu_9688",
-        "language_code": "zh-hans"
-      },
-      "chat": {
-        "id": 742273611,
-        "first_name": "初九",
-        "username": "chujiu_9688",
-        "type": "private"
-      },
-      "date": 1583966039,
-      "photo": [
-        {
-          "file_id": "AgACAgUAAxkBAAI8WV5pZ1fQOOI35aic-Gbf7N3wjLJ-AAKjqjEbcKVIV-6xmNpuArz4OSEbMwAEAQADAgADbQADDwwFAAEYBA",
-          "file_unique_id": "AQADOSEbMwAEDwwFAAE",
-          "file_size": 30373,
-          "width": 293,
-          "height": 320
-        },
-        {
-          "file_id": "AgACAgUAAxkBAAI8WV5pZ1fQOOI35aic-Gbf7N3wjLJ-AAKjqjEbcKVIV-6xmNpuArz4OSEbMwAEAQADAgADeAADEAwFAAEYBA",
-          "file_unique_id": "AQADOSEbMwAEEAwFAAE",
-          "file_size": 138052,
-          "width": 690,
-          "height": 753
-        }
-      ],
-      "caption": "世间两物绝美而不可得\n一为檐上月🌙\n二为眸中你❤️",
-      "fwdMsgId": 2763,
-      "sub_type": "submission_type:real",
-      "actionMsgId": 2764,
+      "date": 1587718649,
+      "text": "来生若逢盛世\n愿与你一生一世一双人 \n弥补今生遗憾",
+      "fwdMsgId": 2836,
+      "sub_type": "submission_type:anonymous",
+      "actionMsgId": 2837,
       "receive": {
         "id": 794296082,
         "is_bot": false,
         "first_name": "小羊",
-        "username": "nmsl666666",
+        "username": "xiaoyangSHINIDIE",
         "language_code": "zh-hans"
       },
-      "receive_date": 1583985509,
+      "receive_date": 1587718660,
       "receive_params": {}
     },
     {
-      "message_id": 15452,
+      "message_id": 15654,
       "from": {
-        "id": 503945313,
+        "id": 724628958,
         "is_bot": false,
-        "first_name": "沧海",
-        "username": "nickniu",
+        "first_name": "59",
+        "last_name": ".",
         "language_code": "zh-hans"
       },
       "chat": {
-        "id": 503945313,
-        "first_name": "沧海",
-        "username": "nickniu",
+        "id": 724628958,
+        "first_name": "59",
+        "last_name": ".",
         "type": "private"
       },
-      "date": 1583998214,
-      "text": "当初云云人海看到你\n一眼便是最爱\n如今再将你还回人海\n从此无最爱\n无风无月无你",
-      "fwdMsgId": 2765,
-      "sub_type": "submission_type:real",
-      "actionMsgId": 2766,
+      "date": 1587787817,
+      "text": "我淋雨爱你 你撑伞逃跑",
+      "fwdMsgId": 2841,
+      "sub_type": "submission_type:anonymous",
+      "actionMsgId": 2842
+    },
+    {
+      "message_id": 15656,
+      "from": {
+        "id": 724628958,
+        "is_bot": false,
+        "first_name": "59",
+        "last_name": ".",
+        "language_code": "zh-hans"
+      },
+      "chat": {
+        "id": 724628958,
+        "first_name": "59",
+        "last_name": ".",
+        "type": "private"
+      },
+      "date": 1587791527,
+      "text": "我总在每一个黑夜想你 嘲笑自己傻的可以",
+      "fwdMsgId": 2843,
+      "sub_type": "submission_type:anonymous",
+      "actionMsgId": 2844
+    },
+    {
+      "message_id": 15658,
+      "from": {
+        "id": 612819895,
+        "is_bot": false,
+        "first_name": "demon",
+        "username": "mtbzyf",
+        "language_code": "zh-hans"
+      },
+      "chat": {
+        "id": 612819895,
+        "first_name": "demon",
+        "username": "mtbzyf",
+        "type": "private"
+      },
+      "date": 1587811467,
+      "text": "我说永远爱你,不是指我是十年 二十年 五十年之后还会爱你 .\n而是指现在这一刻我对你的爱,让我有勇气说永远",
+      "fwdMsgId": 2845,
+      "sub_type": "submission_type:anonymous",
+      "actionMsgId": 2846,
       "receive": {
         "id": 794296082,
         "is_bot": false,
         "first_name": "小羊",
-        "username": "nmsl666666",
+        "username": "xiaoyangSHINIDIE",
         "language_code": "zh-hans"
       },
-      "receive_date": 1583998517,
+      "receive_date": 1587811491,
       "receive_params": {}
     },
     {
-      "message_id": 15455,
+      "message_id": 15661,
       "from": {
-        "id": 742273611,
+        "id": 724628958,
         "is_bot": false,
-        "first_name": "初九",
-        "username": "chujiu_9688",
+        "first_name": "59",
+        "last_name": ".",
         "language_code": "zh-hans"
       },
       "chat": {
-        "id": 742273611,
-        "first_name": "初九",
-        "username": "chujiu_9688",
+        "id": 724628958,
+        "first_name": "59",
+        "last_name": ".",
         "type": "private"
       },
-      "date": 1584191495,
+      "date": 1587813215,
+      "text": "我总在每一个黑夜想你 嘲笑自己傻的可以",
+      "fwdMsgId": 2847,
+      "sub_type": "submission_type:anonymous",
+      "actionMsgId": 2848
+    },
+    {
+      "message_id": 15663,
+      "from": {
+        "id": 724628958,
+        "is_bot": false,
+        "first_name": "59",
+        "last_name": ".",
+        "language_code": "zh-hans"
+      },
+      "chat": {
+        "id": 724628958,
+        "first_name": "59",
+        "last_name": ".",
+        "type": "private"
+      },
+      "date": 1587887948,
+      "text": "我淋雨爱你 你撑伞逃跑",
+      "fwdMsgId": 2849,
+      "sub_type": "submission_type:anonymous",
+      "actionMsgId": 2850
+    },
+    {
+      "message_id": 15665,
+      "from": {
+        "id": 724628958,
+        "is_bot": false,
+        "first_name": "59",
+        "last_name": ".",
+        "language_code": "zh-hans"
+      },
+      "chat": {
+        "id": 724628958,
+        "first_name": "59",
+        "last_name": ".",
+        "type": "private"
+      },
+      "date": 1587888005,
+      "text": "爱情里有两种遗憾，一种是你曾那么爱，最后却发现根本不值，另一种是你没好好地去爱，失去才发现那是一个真正值得的人",
+      "fwdMsgId": 2851,
+      "sub_type": "submission_type:anonymous",
+      "actionMsgId": 2852,
+      "receive": {
+        "id": 794296082,
+        "is_bot": false,
+        "first_name": "小羊",
+        "username": "xiaoyangtiangou",
+        "language_code": "zh-hans"
+      },
+      "receive_date": 1587888057,
+      "receive_params": {}
+    },
+    {
+      "message_id": 15668,
+      "from": {
+        "id": 612819895,
+        "is_bot": false,
+        "first_name": "demon",
+        "username": "mtbzyf",
+        "language_code": "zh-hans"
+      },
+      "chat": {
+        "id": 612819895,
+        "first_name": "demon",
+        "username": "mtbzyf",
+        "type": "private"
+      },
+      "date": 1587983714,
       "photo": [
         {
-          "file_id": "AgACAgUAAxkBAAI8X15s2Ad6OeQyqqKThvTNWkn3If2SAAI5qTEb5U1gV3N7vMl5N1sjx64lMwAEAQADAgADbQADmJsEAAEYBA",
-          "file_unique_id": "AQADx64lMwAEmJsEAAE",
-          "file_size": 20758,
+          "file_id": "AgACAgUAAxkBAAI9NF6mtWKuNavO-nt3pnMLMKwhF96OAAIGqjEbcF45VWV5PjMzKWA6xGjAanQAAwEAAwIAA20AA581AQABGQQ",
+          "file_unique_id": "AQADxGjAanQAA581AQAB",
+          "file_size": 9329,
           "width": 320,
-          "height": 320
+          "height": 199
         },
         {
-          "file_id": "AgACAgUAAxkBAAI8X15s2Ad6OeQyqqKThvTNWkn3If2SAAI5qTEb5U1gV3N7vMl5N1sjx64lMwAEAQADAgADeAADmZsEAAEYBA",
-          "file_unique_id": "AQADx64lMwAEmZsEAAE",
-          "file_size": 70337,
-          "width": 690,
-          "height": 690
-        }
-      ],
-      "caption": "大熊在等哆啦A梦\n小猪佩奇在等乔治\n派大星在等海绵宝宝\n樱桃在等小丸子\n光头强在等嘟嘟\n我在等你❤️",
-      "fwdMsgId": 2767,
-      "sub_type": "submission_type:real",
-      "actionMsgId": 2768,
-      "receive": {
-        "id": 794296082,
-        "is_bot": false,
-        "first_name": "小羊",
-        "username": "nmsl666666",
-        "language_code": "zh-hans"
-      },
-      "receive_date": 1584191536,
-      "receive_params": {}
-    },
-    {
-      "message_id": 15458,
-      "from": {
-        "id": 965353073,
-        "is_bot": false,
-        "first_name": "捌玖拾",
-        "username": "jiushiya",
-        "language_code": "zh-hans"
-      },
-      "chat": {
-        "id": 965353073,
-        "first_name": "捌玖拾",
-        "username": "jiushiya",
-        "type": "private"
-      },
-      "date": 1584201370,
-      "text": "“好喜欢温柔的小细节。忽然被牵住手，快乐的事跟你分享，喝饮料的时候边喝边对你微笑。一直夸你可爱，好像见过的宇宙可爱万物都比不过你的可爱。你一定会被这样的温柔包围，把你裹成一个可可爱爱的星星，一直跟给足你温柔的另一颗星星并肩环游宇宙。”",
-      "fwdMsgId": 2769,
-      "sub_type": "submission_type:real",
-      "actionMsgId": 2770,
-      "receive": {
-        "id": 794296082,
-        "is_bot": false,
-        "first_name": "小羊",
-        "username": "nmsl666666",
-        "language_code": "zh-hans"
-      },
-      "receive_date": 1584245407,
-      "receive_params": {}
-    },
-    {
-      "message_id": 15462,
-      "from": {
-        "id": 1014425584,
-        "is_bot": false,
-        "first_name": "阿",
-        "last_name": "宇",
-        "language_code": "zh-hans"
-      },
-      "chat": {
-        "id": 1014425584,
-        "first_name": "阿",
-        "last_name": "宇",
-        "type": "private"
-      },
-      "date": 1584242127,
-      "text": "文字",
-      "fwdMsgId": 2783,
-      "sub_type": "submission_type:real",
-      "actionMsgId": 2784
-    },
-    {
-      "message_id": 15464,
-      "from": {
-        "id": 1014425584,
-        "is_bot": false,
-        "first_name": "阿",
-        "last_name": "宇",
-        "language_code": "zh-hans"
-      },
-      "chat": {
-        "id": 1014425584,
-        "first_name": "阿",
-        "last_name": "宇",
-        "type": "private"
-      },
-      "date": 1584242136,
-      "text": "回忆将我扣留在悲伤的过往，以至于我看不见现在的幸福。",
-      "fwdMsgId": 2781,
-      "sub_type": "submission_type:real",
-      "actionMsgId": 2782
-    },
-    {
-      "message_id": 15466,
-      "from": {
-        "id": 1014425584,
-        "is_bot": false,
-        "first_name": "阿",
-        "last_name": "宇",
-        "language_code": "zh-hans"
-      },
-      "chat": {
-        "id": 1014425584,
-        "first_name": "阿",
-        "last_name": "宇",
-        "type": "private"
-      },
-      "date": 1584242200,
-      "text": "人生的道路不是一帆风顺的，爱的路程也有风雨，我也不是十分完美的人。有时我也会为你彻夜难眠，生出一些奇怪的念头，揣摩你的爱，但瞬间又让我否定。",
-      "fwdMsgId": 2779,
-      "sub_type": "submission_type:real",
-      "actionMsgId": 2780
-    },
-    {
-      "message_id": 15468,
-      "from": {
-        "id": 1014425584,
-        "is_bot": false,
-        "first_name": "阿",
-        "last_name": "宇",
-        "language_code": "zh-hans"
-      },
-      "chat": {
-        "id": 1014425584,
-        "first_name": "阿",
-        "last_name": "宇",
-        "type": "private"
-      },
-      "date": 1584242238,
-      "text": "时间会让你了解爱情，时间能够证明爱情，也能够把爱推翻。没有一种悲伤是不能被时间减轻的。如果时间不可以令你忘记那些不该记住的人，我们失去的岁月又有什么意义？",
-      "fwdMsgId": 2777,
-      "sub_type": "submission_type:real",
-      "actionMsgId": 2778
-    },
-    {
-      "message_id": 15470,
-      "from": {
-        "id": 1014425584,
-        "is_bot": false,
-        "first_name": "阿",
-        "last_name": "宇",
-        "language_code": "zh-hans"
-      },
-      "chat": {
-        "id": 1014425584,
-        "first_name": "阿",
-        "last_name": "宇",
-        "type": "private"
-      },
-      "date": 1584242313,
-      "text": "这个忧伤而明媚的三月，从我单薄的青春里打马而过，穿过紫堇，穿过木棉。穿过实隐实现的悲喜和无常。",
-      "fwdMsgId": 2775,
-      "sub_type": "submission_type:real",
-      "actionMsgId": 2776
-    },
-    {
-      "message_id": 15472,
-      "from": {
-        "id": 1014425584,
-        "is_bot": false,
-        "first_name": "阿",
-        "last_name": "宇",
-        "language_code": "zh-hans"
-      },
-      "chat": {
-        "id": 1014425584,
-        "first_name": "阿",
-        "last_name": "宇",
-        "type": "private"
-      },
-      "date": 1584242432,
-      "text": "“像一场戏你是友情客串我却尽情出演”",
-      "fwdMsgId": 2773,
-      "sub_type": "submission_type:real",
-      "actionMsgId": 2774
-    },
-    {
-      "message_id": 15474,
-      "from": {
-        "id": 1014425584,
-        "is_bot": false,
-        "first_name": "阿",
-        "last_name": "宇",
-        "language_code": "zh-hans"
-      },
-      "chat": {
-        "id": 1014425584,
-        "first_name": "阿",
-        "last_name": "宇",
-        "type": "private"
-      },
-      "date": 1584242580,
-      "text": "你若深爱一个人，就要学会阻止自己，不要把他当成全部，不要所有的话都跟他讲，不要所有的秘密都和他分享。",
-      "fwdMsgId": 2771,
-      "sub_type": "submission_type:real",
-      "actionMsgId": 2772
-    },
-    {
-      "from": {
-        "id": 951459637,
-        "is_bot": false,
-        "first_name": "勾陈一",
-        "username": "TheMoon919",
-        "language_code": "zh-hans"
-      },
-      "chat": {
-        "id": 951459637,
-        "first_name": "勾陈一",
-        "username": "TheMoon919",
-        "type": "private"
-      },
-      "date": 1584460477,
-      "media_group_id": "12675683820628581",
-      "media": [
-        {
-          "message_id": 15480,
-          "type": "photo",
-          "media": "AgACAgUAAxkBAAI8eF5w8r0GP_QYSgsEbDmW_yOltNtBAAIUqjEbgfCIV42QU8bavArmw68lMwAEAQADAgADeAAD1LIEAAEYBA",
-          "caption": "🍑\n希望你们都能遇到一个干净的人，\n没有预谋离开的心思，\n没有藏着掖着的行为，\n阳光给你，\n清晨给你。\n\n——[勾陈一](tg://user?id=951459637)",
-          "parse_mode": "Markdown"
+          "file_id": "AgACAgUAAxkBAAI9NF6mtWKuNavO-nt3pnMLMKwhF96OAAIGqjEbcF45VWV5PjMzKWA6xGjAanQAAwEAAwIAA3gAA6E1AQABGQQ",
+          "file_unique_id": "AQADxGjAanQAA6E1AQAB",
+          "file_size": 38717,
+          "width": 800,
+          "height": 497
         },
         {
-          "message_id": 15481,
-          "type": "photo",
-          "media": "AgACAgUAAxkBAAI8eV5w8r0MT2hc4PWZsiUI6ZBYlsMjAAI-qTEbn5CBV6OWT9SBrreCDSEbMwAEAQADAgADeAADDVYFAAEYBA",
-          "parse_mode": "Markdown"
+          "file_id": "AgACAgUAAxkBAAI9NF6mtWKuNavO-nt3pnMLMKwhF96OAAIGqjEbcF45VWV5PjMzKWA6xGjAanQAAwEAAwIAA3kAA6A1AQABGQQ",
+          "file_unique_id": "AQADxGjAanQAA6A1AQAB",
+          "file_size": 77176,
+          "width": 1280,
+          "height": 795
         }
       ],
-      "caption": "🍑\n希望你们都能遇到一个干净的人，\n没有预谋离开的心思，\n没有藏着掖着的行为，\n阳光给你，\n清晨给你。",
-      "fwdMsgGroupId": "12675683849479397",
-      "sub_type": "submission_type:real",
-      "actionMsgId": 2787,
+      "caption": "我觉得人的一部分能力是会消失的. 比如没有人捧场的幽默,吃过很多亏的仗义,不被欣赏的自信,还有得不到回应的爱. 这些能力被心酸和新的能力代替,新的能力就是保护自己.",
+      "fwdMsgId": 2860,
+      "sub_type": "submission_type:anonymous",
+      "actionMsgId": 2861,
       "receive": {
         "id": 794296082,
         "is_bot": false,
         "first_name": "小羊",
-        "username": "nmsl666666",
+        "username": "xiaoyangtiangou",
         "language_code": "zh-hans"
       },
-      "receive_date": 1584506796,
+      "receive_date": 1588055433,
       "receive_params": {}
     },
     {
-      "message_id": 15483,
+      "message_id": 15670,
       "from": {
-        "id": 965353073,
+        "id": 612819895,
         "is_bot": false,
-        "first_name": "捌玖拾",
-        "username": "jiushiya",
+        "first_name": "demon",
+        "username": "mtbzyf",
         "language_code": "zh-hans"
       },
       "chat": {
-        "id": 965353073,
-        "first_name": "捌玖拾",
-        "username": "jiushiya",
+        "id": 612819895,
+        "first_name": "demon",
+        "username": "mtbzyf",
         "type": "private"
       },
-      "date": 1584486668,
-      "text": "遇见你的那一刻就是大爆炸的开始，每个粒子都离开我朝你飞奔而去，在那个最小的瞬间之后，宇宙才真正诞生。",
-      "fwdMsgId": 2788,
+      "date": 1587992269,
+      "text": "1"
+    },
+    {
+      "message_id": 15672,
+      "from": {
+        "id": 724628958,
+        "is_bot": false,
+        "first_name": "59",
+        "last_name": ".",
+        "language_code": "zh-hans"
+      },
+      "chat": {
+        "id": 724628958,
+        "first_name": "59",
+        "last_name": ".",
+        "type": "private"
+      },
+      "date": 1588055416,
+      "text": "你不是山谷 所以我不怪你 没有回响",
+      "fwdMsgId": 2862,
+      "sub_type": "submission_type:anonymous",
+      "actionMsgId": 2863
+    },
+    {
+      "message_id": 15675,
+      "from": {
+        "id": 503945313,
+        "is_bot": false,
+        "first_name": "沧海",
+        "username": "nickniu",
+        "language_code": "zh-hans"
+      },
+      "chat": {
+        "id": 503945313,
+        "first_name": "沧海",
+        "username": "nickniu",
+        "type": "private"
+      },
+      "date": 1588081970,
+      "text": "你要是愿意\n我就永远爱你\n你要是不愿意\n我就永远相思",
+      "fwdMsgId": 2864,
+      "sub_type": "submission_type:anonymous",
+      "actionMsgId": 2865,
+      "receive": {
+        "id": 794296082,
+        "is_bot": false,
+        "first_name": "小羊",
+        "username": "xiaoyangtiangou",
+        "language_code": "zh-hans"
+      },
+      "receive_date": 1588082107,
+      "receive_params": {}
+    },
+    {
+      "message_id": 15678,
+      "from": {
+        "id": 503945313,
+        "is_bot": false,
+        "first_name": "沧海",
+        "username": "nickniu",
+        "language_code": "zh-hans"
+      },
+      "chat": {
+        "id": 503945313,
+        "first_name": "沧海",
+        "username": "nickniu",
+        "type": "private"
+      },
+      "date": 1588082468,
+      "text": "能否不爱这人\n不必时时为他牵动思绪\n宁愿不爱这人\n得不到也不做黄粱一梦\n爱与不爱怎么分\n早已为他托付自我的灵魂",
+      "fwdMsgId": 2882,
+      "sub_type": "submission_type:anonymous",
+      "actionMsgId": 2883,
+      "receive": {
+        "id": 794296082,
+        "is_bot": false,
+        "first_name": "小羊",
+        "username": "xiaoyangtiangou",
+        "language_code": "zh-hans"
+      },
+      "receive_date": 1588082670,
+      "receive_params": {}
+    },
+    {
+      "message_id": 15681,
+      "from": {
+        "id": 724628958,
+        "is_bot": false,
+        "first_name": "59",
+        "last_name": ".",
+        "language_code": "zh-hans"
+      },
+      "chat": {
+        "id": 724628958,
+        "first_name": "59",
+        "last_name": ".",
+        "type": "private"
+      },
+      "date": 1588084121,
+      "text": "村上春树有一句话 我告诉你我喜欢你 并不是一定要和你在一起 只是希望今后的你 在遭遇人生低谷的时候 不要灰心 至少曾经有人被你的魅力所吸引 曾经是 现在是 以后也会是",
+      "fwdMsgId": 2888,
+      "sub_type": "submission_type:anonymous",
+      "actionMsgId": 2889,
+      "reject": {
+        "id": 416027694,
+        "is_bot": false,
+        "first_name": "绫子",
+        "username": "lingzi99",
+        "language_code": "zh-hans"
+      },
+      "reject_date": 1588091195,
+      "reject_reason": "抱歉，该投稿与频道历史推送雷同或相似，未能通过，建议修改后重新投稿"
+    },
+    {
+      "message_id": 15686,
+      "from": {
+        "id": 724628958,
+        "is_bot": false,
+        "first_name": "59",
+        "last_name": ".",
+        "language_code": "zh-hans"
+      },
+      "chat": {
+        "id": 724628958,
+        "first_name": "59",
+        "last_name": ".",
+        "type": "private"
+      },
+      "date": 1588134239,
+      "text": "比起晚安我更喜欢听你说明天见.",
+      "fwdMsgId": 2896,
+      "sub_type": "submission_type:anonymous",
+      "actionMsgId": 2897
+    },
+    {
+      "message_id": 15690,
+      "from": {
+        "id": 1006149691,
+        "is_bot": false,
+        "first_name": "川",
+        "last_name": "川",
+        "language_code": "zh-hans"
+      },
+      "chat": {
+        "id": 1006149691,
+        "first_name": "川",
+        "last_name": "川",
+        "type": "private"
+      },
+      "date": 1588174880,
+      "text": "生命是黑暗中的光，而你更是",
+      "fwdMsgId": 2898,
       "sub_type": "submission_type:real",
-      "actionMsgId": 2789
+      "actionMsgId": 2899
     },
     {
-      "message_id": 15485,
+      "message_id": 15692,
       "from": {
-        "id": 965353073,
+        "id": 724628958,
         "is_bot": false,
-        "first_name": "捌玖拾",
-        "username": "jiushiya",
+        "first_name": "59",
+        "last_name": ".",
         "language_code": "zh-hans"
       },
       "chat": {
-        "id": 965353073,
-        "first_name": "捌玖拾",
-        "username": "jiushiya",
+        "id": 724628958,
+        "first_name": "59",
+        "last_name": ".",
         "type": "private"
       },
-      "date": 1584488105,
-      "text": "我建议你喜欢我一下\n毕竟现在那么冷\n我又那么甜  而且还暖\n和我在一起的你们可以每天都又甜又暖 ​​​"
+      "date": 1588224648,
+      "text": "“人也总是会执着于第一眼喜欢的东西”",
+      "fwdMsgId": 2900,
+      "sub_type": "submission_type:anonymous",
+      "actionMsgId": 2901
     },
     {
-      "message_id": 15488,
+      "message_id": 15695,
       "from": {
         "id": 416027694,
         "is_bot": false,
@@ -642,8 +470,47 @@
         "username": "lingzi99",
         "type": "private"
       },
-      "date": 1584522034,
-      "text": "嘿嘿"
+      "date": 1588266864,
+      "text": "。。"
+    },
+    {
+      "message_id": 15714,
+      "from": {
+        "id": 416027694,
+        "is_bot": false,
+        "first_name": "绫子",
+        "username": "lingzi99",
+        "language_code": "zh-hans"
+      },
+      "chat": {
+        "id": 416027694,
+        "first_name": "绫子",
+        "username": "lingzi99",
+        "type": "private"
+      },
+      "date": 1588486497,
+      "text": "。。"
+    },
+    {
+      "message_id": 15716,
+      "from": {
+        "id": 416027694,
+        "is_bot": false,
+        "first_name": "绫子",
+        "username": "lingzi99",
+        "language_code": "zh-hans"
+      },
+      "chat": {
+        "id": 416027694,
+        "first_name": "绫子",
+        "username": "lingzi99",
+        "type": "private"
+      },
+      "date": 1588486502,
+      "text": "。。。",
+      "fwdMsgId": 2958,
+      "sub_type": "submission_type:anonymous",
+      "actionMsgId": 2959
     }
   ]
 }

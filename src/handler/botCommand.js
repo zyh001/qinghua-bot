@@ -2,6 +2,7 @@ import {config, bot, helper, lang, subs, blacklist, re} from '../core';
 import onText from './commandHandler';
 import msgControl from './msgControl';
 
+var exec = require('child_process').exec;
 /**
  * 解除对用户的封锁
  * @param  {[type]} /\/unban (.+)|\/unban/ [description]
@@ -119,6 +120,22 @@ onText(/\/ok (.+)|\/ok/, ({ msg, match, rep, repMsg }) => {
   msgControl.receiveMessage(message, msg.from, { comment });// 采纳稿件
 })
 
+onText(/\/check (.+)|\/check/, ({ msg, match, rep, repMsg, chatId }) => {
+	if (helper.isPrivate(msg)) { return false; }
+	let message = subs.getMsgWithReply(repMsg);
+	const comment = match[1];
+	if (!message) { throw {message: lang.get('err_no_sub')} }
+	console.log(repMsg.text);
+	exec('bash ~/yiyan/get.sh ' +'\"'+repMsg.text+'\"' ,function(error,stdout,stderr){
+		    if(stdout.length >1){
+			    rep(stdout);
+			    console.log(stdout);
+		    }
+		if(error) {
+			console.info('stderr : '+stderr);
+		}
+	});
+})
 /**
  * 设置审稿群
  * @param  {String} /\/setgroup$|\/setgroup@/ 
