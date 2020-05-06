@@ -120,6 +120,12 @@ onText(/\/ok (.+)|\/ok/, ({ msg, match, rep, repMsg }) => {
   msgControl.receiveMessage(message, msg.from, { comment });// 采纳稿件
 })
 
+/**
+ * 稿件吻合度检测
+ * @param  {[type]} /\/ok (.+)|\/ok/    [description]
+ * @param  {[type]} ({msg, match}         [description]
+ * @return {[type]}       [description]
+ */
 onText(/\/check (.+)|\/check/, ({ msg, match, rep, repMsg, chatId }) => {
 	if (helper.isPrivate(msg)) { return false; }
 	let message = subs.getMsgWithReply(repMsg);
@@ -129,9 +135,12 @@ onText(/\/check (.+)|\/check/, ({ msg, match, rep, repMsg, chatId }) => {
 	exec('bash ~/yiyan/get.sh ' +'\"'+repMsg.text+'\"' ,function(error,stdout,stderr){
 		    if(stdout.length >1){
 			    rep(stdout);
-			    console.log(stdout);
-		    }
+          console.log(stdout);
+        } else {
+          rep(lang.get('err_check_unknow'));
+        }
 		if(error) {
+      rep(lang.get('err_check_unknow'));
 			console.info('stderr : '+stderr);
 		}
 	});
