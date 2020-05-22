@@ -122,7 +122,7 @@ onText(/\/ok (.+)|\/ok/, ({ msg, match, rep, repMsg }) => {
 
 /**
  * 稿件吻合度检测
- * @param  {[type]} /\/ok (.+)|\/ok/    [description]
+ * @param  {[type]} /\/check (.+)|\/check/    [description]
  * @param  {[type]} ({msg, match}         [description]
  * @return {[type]}       [description]
  */
@@ -132,6 +132,14 @@ onText(/\/check (.+)|\/check/, ({ msg, match, rep, repMsg, chatId }) => {
 	const comment = match[1];
 	if (!message) { throw {message: lang.get('err_no_sub')} }
 	console.log(repMsg.text);
+	if (comment){
+		var messa = comment;
+	}else{
+		if (!message){ 
+			throw {message: lang.get('err_no_sub')} 
+		}
+		var messa = repMsg.text;
+	}
 	exec('bash ~/yiyan/get.sh ' +'\"'+repMsg.text+'\"' ,function(error,stdout,stderr){
 		    if(stdout.length >1){
 			    rep(stdout);
