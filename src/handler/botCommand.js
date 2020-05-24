@@ -122,7 +122,11 @@ onText(/\/ok (.+)|\/ok/, ({ msg, match, rep, repMsg }) => {
 
 /**
  * 稿件吻合度检测
+<<<<<<< HEAD
  * @param  {[type]} /\/check (.+)|\/check/    [description]
+=======
+ * @param  {[type]} /\/check  (.+)|\/check/    [description]
+>>>>>>> 838b26f1e692089458830a6b355968bdcfa777dd
  * @param  {[type]} ({msg, match}         [description]
  * @return {[type]}       [description]
  */
